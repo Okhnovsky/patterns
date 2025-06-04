@@ -1,10 +1,6 @@
-=======================
 Паттерны проектирования
-=======================
-
 
 Порождающие паттерны
-====================
 
 * Абстрактная фабрика (Abstract Factory) `Python <generating_patterns/abstract_factory.py>`_
 * Строитель (Builder) `Python <generating_patterns/builder.py>`_
