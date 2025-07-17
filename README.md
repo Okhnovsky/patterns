@@ -1,9 +1,13 @@
-Паттерны проектирования
+# Паттерны проектирования
 
-Порождающие паттерны
+## Порождающие паттерны
 
-* Абстрактная фабрика (Abstract Factory) `Python <generating_patterns/abstract_factory.py>`_
-* Строитель (Builder) `Python <generating_patterns/builder.py>`_
-* Фабричный метод (Factory Method) `Python <generating_patterns/factory_method.py>`_
-* Прототип (Prototype) `Python <generating_patterns/prototype.py>`_
-* Одиночка (Singleton) `Python <generating_patterns/singleton.py>`_
+- [Абстрактная фабрика (Abstract Factory)] (https://github.com/Okhnovsky/patterns/generating_patterns/abstract_factory.py)
+- [Строитель (Builder)] (https://github.com/Okhnovsky/patterns/generating_patterns/builder.py)
+- [Фабричный метод (Factory Method)] (https://github.com/Okhnovsky/patterns generating_patterns/factory_method.py)
+- [Прототип (Prototype)] (https://github.com/Okhnovsky/patterns/generating_patterns/prototype.py)
+- [Одиночка (Singleton)] (https://github.com/Okhnovsky/patterns/generating_patterns/singleton.py)
+
+
+## Структурные паттерны
+- [Адаптер (Adapter)] (https://github.com/Okhnovsky/patterns/structural/adapter.py)
