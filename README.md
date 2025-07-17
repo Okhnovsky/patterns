@@ -2,7 +2,7 @@
 
 ## Порождающие паттерны
 
-- [Абстрактная фабрика (Abstract Factory)] (https://github.com/Okhnovsky/patterns/blob/main/generating_patterns/abstract_factory.py)
+[Абстрактная фабрика (Abstract Factory)] (https://github.com/Okhnovsky/patterns/blob/main/generating_patterns/abstract_factory.py)
 - [Строитель (Builder)] (https://github.com/Okhnovsky/patterns/generating_patterns/blob/main/builder.py)
 - [Фабричный метод (Factory Method)] (https://github.com/Okhnovsky/patterns/blob/main/generating_patterns/factory_method.py)
 - [Прототип (Prototype)] (https://github.com/Okhnovsky/patterns/blob/main/generating_patterns/prototype.py)
