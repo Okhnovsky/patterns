@@ -13,3 +13,4 @@
 - [Адаптер (Adapter)](https://github.com/Okhnovsky/patterns/blob/main/structural/adapter.py)
 - [Мост (Bridge)](https://github.com/Okhnovsky/patterns/blob/main/structural/bridge.py)
 - [Компоновщик (Composite)](https://github.com/Okhnovsky/patterns/blob/main/structural/composite.py)
+- [Декоратор (Decorator)](https://github.com/Okhnovsky/patterns/blob/main/structural/decorator.py)
