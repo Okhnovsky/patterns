@@ -16,3 +16,4 @@
 - [Декоратор (Decorator)](https://github.com/Okhnovsky/patterns/blob/main/structural/decorator.py)
 - [Фасад (Facade)](https://github.com/Okhnovsky/patterns/blob/main/structural/facade.py)
 - [Приспособленец (Flyweight)](https://github.com/Okhnovsky/patterns/blob/main/structural/flyweight.py)
+- [Заместитель (Proxy)](https://github.com/Okhnovsky/patterns/blob/main/structural/proxy.py)
