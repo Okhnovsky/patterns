@@ -17,3 +17,7 @@
 - [Фасад (Facade)](https://github.com/Okhnovsky/patterns/blob/main/structural/facade.py)
 - [Приспособленец (Flyweight)](https://github.com/Okhnovsky/patterns/blob/main/structural/flyweight.py)
 - [Заместитель (Proxy)](https://github.com/Okhnovsky/patterns/blob/main/structural/proxy.py)
+
+
+## Паттерны поведения
+- [Цепочка обязанностей (Chain of responsibility)](https://github.com/Okhnovsky/patterns/blob/main/behavior/chain_of_responsibility.py)
