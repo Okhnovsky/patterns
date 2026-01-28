@@ -21,3 +21,4 @@
 
 ## Паттерны поведения
 - [Цепочка обязанностей (Chain of responsibility)](https://github.com/Okhnovsky/patterns/blob/main/behavior/chain_of_responsibility.py)
+- [Команда (Command)](https://github.com/Okhnovsky/patterns/blob/main/behavior/command.py)
