@@ -26,3 +26,4 @@
 - [Итератор (Iterator)](https://github.com/Okhnovsky/patterns/blob/main/behavior/iterator.py)
 - [Посредник (Mediator)](https://github.com/Okhnovsky/patterns/blob/main/behavior/mediator.py)
 - [Хранитель (Memento)](https://github.com/Okhnovsky/patterns/blob/main/behavior/memento.py)
+- [Наблюдатель (Observer)](https://github.com/Okhnovsky/patterns/blob/main/behavior/observer.py)
